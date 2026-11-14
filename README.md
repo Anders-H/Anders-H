@@ -1,6 +1,6 @@
 # Welcome!
 
-I am a programmer with a keen interest in science, technology, social issues, and critical thinking. On this website, I gather articles, links, and media appearances where I explore rationality, secular humanism, politics, and digitalization, aiming to contribute to a more fact-based public discourse.
+I am a computer programmer with a keen interest in science, technology, social issues, and critical thinking. On this website, I gather articles, links, and media appearances where I explore rationality, secular humanism, politics, and digitalization, aiming to contribute to a more fact-based public discourse.
 
 Personal website: [https://ahesselbom.se/](https://ahesselbom.se/)
 
