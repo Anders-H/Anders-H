@@ -1,7 +1,15 @@
+# Welcome!
+
 I am a programmer with a keen interest in science, technology, social issues, and critical thinking. On this website, I gather articles, links, and media appearances where I explore rationality, secular humanism, politics, and digitalization, aiming to contribute to a more fact-based public discourse.
+
+Personal website: [https://ahesselbom.se/](https://ahesselbom.se/)
 
 I co-founded *Skeptikerpodden*, a podcast about scientific skepticism that aired on Radio1 among other platforms, where I produced the first 60 episodes. I also produced over 200 episodes of *Radio Houdi* alongside illusionist John Houdi. I served as chairman of the Swedish Humanist Association (*Humanisterna*) in Örebro for five years until 2022, and previously wrote for *Bright*, a debate magazine critical of religion. Today, I mostly podcast and appear alongside Henrik Andersson, such as in the film magazine *Flimmer Duo*. I am a two-time winner of the Swedish Podcast Awards (Svenska podradiopriset).
 
+Linktree: [https://linktr.ee/hesselbom](https://linktr.ee/hesselbom)
+
 I give lectures on naturalism (including atheism) as a philosophical stance to both teenagers and adults—I gladly visit lower and upper secondary schools in connection with classes in philosophy or worldviews. Since September 2022, I have been a proud member of the Bifrost Order (*Bifrostorden*).
+
+RSS: [https://ahesselbom.se/rss/](https://ahesselbom.se/rss/)
 
 I have a soft spot for vintage computers, especially those sporting the Commodore badge. By profession, I am a software developer and have worked in the industry since the mid-1990s. Nowadays, I work almost exclusively with Microsoft platforms, languages, services, and tools.
