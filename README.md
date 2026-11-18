@@ -4,4 +4,4 @@ I am a computer programmer with a keen interest in science, technology, social i
 
 | Linktree | RSS |
 |:---:|:---:|
-| [https://linktr.ee/hesselbom](https://linktr.ee/hesselbom) | RSS: [https://ahesselbom.se/rss/](https://ahesselbom.se/rss/) |
+| [https://linktr.ee/hesselbom](https://linktr.ee/hesselbom) | [https://ahesselbom.se/rss/](https://ahesselbom.se/rss/) |
